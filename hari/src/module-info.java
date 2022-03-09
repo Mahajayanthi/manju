@@ -1,2 +1,3 @@
 module hari {
+  "hi hari"
 }

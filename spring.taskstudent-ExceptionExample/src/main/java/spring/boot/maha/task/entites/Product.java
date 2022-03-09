@@ -31,5 +31,9 @@ public class Product {
 		
 		return null;
 	}
+	public string ()
+	{
+		return null;
+	}
 
 }

@@ -9,5 +9,6 @@ class ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	SYSTEM.OUT.PRINTLN("HI TEAM");
 
 }
